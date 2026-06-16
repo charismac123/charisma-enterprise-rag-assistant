@@ -1,6 +1,6 @@
 # 🌸 Enterprise AI Assistant
 
-An AI-powered Retrieval-Augmented Generation (RAG) application built with Python, Streamlit, Ollama, ChromaDB, and Sentence Transformers.
+A local Retrieval-Augmented Generation (RAG) application that enables question answering across multiple PDF and DOCX documents using semantic search, vector embeddings, and Llama 3.
 
 ---
 
@@ -8,12 +8,13 @@ An AI-powered Retrieval-Augmented Generation (RAG) application built with Python
 
 * Multi-document question answering
 * PDF and DOCX support
+* SentenceTransformer embeddings
+* ChromaDB persistent vector database
 * Semantic search using embeddings
-* Persistent vector database with ChromaDB
-* Local Llama 3 inference through Ollama
 * Source attribution
 * Conversational memory
 * Streamlit web interface
+* Local Llama 3 interface with Ollama
 
 ---
 
