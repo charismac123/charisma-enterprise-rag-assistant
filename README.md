@@ -78,3 +78,7 @@ streamlit run app.py
 ---
 
 Built with ❤️ using Python and local LLMs.
+
+## Privacy
+
+Uploaded files, vector embeddings, and conversational memory are stored locally and are intentionally excluded from the GitHub repository using `.gitignore`. Users run the application with their own documents and data.
