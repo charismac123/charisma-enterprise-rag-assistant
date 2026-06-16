@@ -15,19 +15,7 @@ A local Retrieval-Augmented Generation (RAG) application that enables question a
 
 ![Answer Example](screenshots/answer.png)
 ---
-## Application Preview
 
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Document Upload
-
-![Document Upload](screenshots/upload.png)
-
-### Question Answering
-
-![Question Answering](screenshots/answer.png)
 ## Features
 
 * Multi-document question answering
