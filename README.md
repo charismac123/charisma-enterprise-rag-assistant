@@ -1,7 +1,19 @@
 # 🌸 Enterprise AI Assistant
 
 A local Retrieval-Augmented Generation (RAG) application that enables question answering across multiple PDF and DOCX documents using semantic search, vector embeddings, and Llama 3.
+## Application Preview
 
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Document Upload
+
+![Document Upload](screenshots/upload.png)
+
+### Question Answering
+
+![Answer Example](screenshots/answer.png)
 ---
 
 ## Features
